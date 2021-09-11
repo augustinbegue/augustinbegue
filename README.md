@@ -13,16 +13,16 @@ You'll find here a variety of randoms personal/school projects I worked on 🌝
 
 ## What do I use ?
 
-<img align="left" alt="csharp" src="https://img.shields.io/badge/C-00589D?logo=c&logoColor=white&style=for-the-badge" />
-<img align="left" alt="csharp" src="https://img.shields.io/badge/C%23-189F20?logo=csharp&logoColor=white&style=for-the-badge" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
-<img align="left" alt="sql" src="https://img.shields.io/badge/MySql-00618A?logo=mysql&logoColor=white&style=for-the-badge" />
-<img align="left" alt="firebase" src="https://img.shields.io/badge/Firebase-F5850D?logo=firebase&logoColor=white&style=for-the-badge" />
-<img align="left" alt="angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" />
-<img align="left" alt="electron" src="https://img.shields.io/badge/Electron-2B2E3B?logo=electron&logoColor=9EE9F8&style=for-the-badge" />
-<br>
-<br>
+<p>
+<img alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+<img alt="sql" src="https://img.shields.io/badge/MySql-00618A?logo=mysql&logoColor=white&style=for-the-badge" />
+<img alt="c" src="https://img.shields.io/badge/C-00589D?logo=c&logoColor=white&style=for-the-badge" />
+<img alt="csharp" src="https://img.shields.io/badge/C%23-189F20?logo=csharp&logoColor=white&style=for-the-badge" />
+<img alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img alt="firebase" src="https://img.shields.io/badge/Firebase-F5850D?logo=firebase&logoColor=white&style=for-the-badge" />
+<img alt="angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" />
+<img alt="electron" src="https://img.shields.io/badge/Electron-2B2E3B?logo=electron&logoColor=9EE9F8&style=for-the-badge" />
+</p>
 
 ## School Projects
 
