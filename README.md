@@ -23,6 +23,17 @@ You'll find here a variety of randoms personal/school projects I worked on 🌝
 <br>
 <br>
 
+## School Projects
+
+### 🔫 The Beaver Project - [thebeaverproject.tk](https://thebeaverproject.tk)
+
+The Beaver Project is a game I made along with Baptiste, François and Paul for my S2 Project at school. It is a multiplayer FPS made on Unity and Firebase.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheBeaverProject&repo=game&bg_color=0d1117&hide_border=true&text_color=c9d1d9)](https://github.com/TheBeaverProject/game)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheBeaverProject&repo=front-de-castor&bg_color=0d1117&hide_border=true&text_color=c9d1d9)](https://github.com/TheBeaverProject/front-de-castor)
+
+
 ## Personal Projects
 
 ### ⚽ Wager - [wager.ga](https://wager.ga)
