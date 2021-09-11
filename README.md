@@ -1,4 +1,4 @@
-![banner](./banner_1440p_augustin.png)
+![banner](./banner_1440.png)
 
 ## Welcome on my profile 👋
 🙋‍♂️ I'm Augustin, a French 19 years old student.
