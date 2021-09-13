@@ -30,9 +30,9 @@ You'll find here a variety of randoms personal/school projects I worked on 🌝
 
 The Beaver Project is a game I made along with Baptiste, François and Paul for my S2 Project at school. It is a multiplayer FPS made on Unity and Firebase.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustinbegue&repo=the-beaver-project-game&bg_color=0d1117&hide_border=true&text_color=c9d1d9)](https://github.com/TheBeaverProject/game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustinbegue&repo=the-beaver-project-game&bg_color=0d1117&hide_border=true&text_color=c9d1d9)](https://github.com/augustinbegue/the-beaver-project-game)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustinbegue&repo=the-beaver-project-website&bg_color=0d1117&hide_border=true&text_color=c9d1d9)](https://github.com/TheBeaverProject/front-de-castor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustinbegue&repo=the-beaver-project-website&bg_color=0d1117&hide_border=true&text_color=c9d1d9)](https://github.com/TheBeaverProject/the-beaver-project-website)
 
 
 ## Personal Projects
