@@ -48,7 +48,7 @@ The Beaver Project is a game I made along with Baptiste, François and Paul for 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustinbegue&repo=the-beaver-project-game&bg_color=0d1117&hide_border=true&text_color=c9d1d9)](https://github.com/augustinbegue/the-beaver-project-game)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustinbegue&repo=the-beaver-project-website&bg_color=0d1117&hide_border=true&text_color=c9d1d9)](https://github.com/TheBeaverProject/the-beaver-project-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustinbegue&repo=the-beaver-project-website&bg_color=0d1117&hide_border=true&text_color=c9d1d9)](https://github.com/augustinbegue/the-beaver-project-website)
 
 
 ## Personal Projects
