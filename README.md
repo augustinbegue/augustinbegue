@@ -41,6 +41,13 @@ You'll find here a variety of randoms personal/school projects I worked on 🌝
 </p>
 
 ## School Projects
+ 
+  
+### 🔳 Sudoku OCR - [sudoku-ocr](https://github.com/augustinbegue/sudoku-ocr)
+  
+This project was made during my Third Semester at school. The subject instructed us to build a program written in C able to process an image of a Sudoku in order to extract the digits contained in it and solve it.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustinbegue&repo=sudoku-ocr&bg_color=0d1117&hide_border=true&text_color=c9d1d9)](https://github.com/augustinbegue/sudoku-ocr)
 
 ### 🔫 The Beaver Project - [thebeaverproject.tk](https://thebeaverproject.tk)
 
@@ -49,13 +56,6 @@ The Beaver Project is a game I made along with Baptiste, François and Paul for 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustinbegue&repo=the-beaver-project-game&bg_color=0d1117&hide_border=true&text_color=c9d1d9)](https://github.com/augustinbegue/the-beaver-project-game)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustinbegue&repo=the-beaver-project-website&bg_color=0d1117&hide_border=true&text_color=c9d1d9)](https://github.com/augustinbegue/the-beaver-project-website)
- 
- ### 🔳 Sudoku OCR - [sudoku-ocr](https://github.com/augustinbegue/sudoku-ocr)
-  
-This project was made during my Third Semester at school. The subject instructed us to build a program written in C able to process an image of a Sudoku in order to extract the digits contained in it and solve it.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustinbegue&repo=sudoku-ocr&bg_color=0d1117&hide_border=true&text_color=c9d1d9)](https://github.com/augustinbegue/sudoku-ocr)
-
 
 ## Personal Projects
 
