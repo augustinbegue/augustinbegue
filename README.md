@@ -56,7 +56,6 @@ This project was made during my Third Semester at school. The subject instructed
 The Beaver Project is a game I made along with Baptiste, François and Paul for my Second Semester Project at school. It is a multiplayer FPS made on Unity and Firebase.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustinbegue&repo=the-beaver-project-game&bg_color=0d1117&hide_border=true&text_color=c9d1d9)](https://github.com/augustinbegue/the-beaver-project-game)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustinbegue&repo=the-beaver-project-website&bg_color=0d1117&hide_border=true&text_color=c9d1d9)](https://github.com/augustinbegue/the-beaver-project-website)
 
 ## Personal Projects
@@ -64,6 +63,10 @@ The Beaver Project is a game I made along with Baptiste, François and Paul for 
 ### ⚽ Wager - [wager.ga](https://wager.ga)
 
 Football prediction game built with NodeJs, [Angular](https://angular.io/) and [Bulma](https://bulma.io/). Built as a PWA, powered by a Rest API, using the [football-data](https://www.football-data.org/) api and some web scraping to get its live data. No public repo yet because I wrote the codebase 2 years ago when I still was a fool (not saying that I'm not anymore tho).
+
+**Currently rewriting it using Flutter**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustinbegue&repo=wager&bg_color=0d1117&hide_border=true&text_color=c9d1d9)](https://github.com/augustinbegue/wager)
 <br>
 
 ### 🚥 Icue Ambilight - [icue-ambilight](https://github.com/augustinbegue/icue-ambilight)
