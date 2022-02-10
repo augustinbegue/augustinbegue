@@ -1,7 +1,7 @@
 ![banner](./banner_1440.png)
 
 ## Welcome on my profile 👋
-🙋‍♂️ I'm Augustin, a French 19 years old student.
+🙋‍♂️ I'm Augustin, a French 19 years old student, cyclist, F1 & Football fan.
 
 👨‍💻 Mainly a web development enthusiast, but I'm working on adding variety to my coding palette.
 
