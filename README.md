@@ -15,16 +15,18 @@ You'll find here a variety of randoms personal/school projects I worked on 🌝
 
 ## What do I use ?
 <p>
- <a href="https://github.com/augustinbegue?tab=repositories&q=&type=&language=typescript&sort=" target="blank_">
-<img alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+   <a href="https://github.com/augustinbegue?tab=repositories&q=&type=&language=dart&sort=" target="blank_">
+<img alt="flutter" src="https://img.shields.io/badge/Flutter-66B1F1?logo=flutter&logoColor=white&style=for-the-badge" />
   </a>
  <a href="https://github.com/augustinbegue?tab=repositories&q=&type=&language=c&sort=" target="blank_">
 <img alt="c" src="https://img.shields.io/badge/C-00589D?logo=c&logoColor=white&style=for-the-badge" />
     </a>
   <a href="https://github.com/search?q=user%3Aaugustinbegue+sql&type=code" target="blank_">
-    <img alt="sql" src="https://img.shields.io/badge/MySql-00618A?logo=mysql&logoColor=white&style=for-the-badge" />
+    <img alt="sql" src="https://img.shields.io/badge/SQL-00618A?logo=PostgreSQL&logoColor=white&style=for-the-badge" />
    </a>
-   
+<a href="https://github.com/augustinbegue?tab=repositories&q=&type=&language=c%23&sort=" target="blank_">
+ <img alt="nodejs" src="https://img.shields.io/badge/Node-76AD64?logo=Node.js&logoColor=white&style=for-the-badge" />
+</a>   
 <a href="https://github.com/augustinbegue?tab=repositories&q=&type=&language=c%23&sort=" target="blank_">
  <img alt="csharp" src="https://img.shields.io/badge/C%23-189F20?logo=csharp&logoColor=white&style=for-the-badge" />
 </a>
@@ -37,6 +39,9 @@ You'll find here a variety of randoms personal/school projects I worked on 🌝
       <a href="https://github.com/search?q=user%3Aaugustinbegue+angular&type=code" target="blank_">
 <img alt="angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" />
        </a>
+    <a href="https://github.com/search?q=user%3Aaugustinbegue+sql&type=code" target="blank_">
+    <img alt="java" src="https://img.shields.io/badge/Java-EC2025?logo=java&logoColor=white&style=for-the-badge" />
+   </a>
        <a href="https://github.com/search?q=user%3Aaugustinbegue+electron&type=code" target="blank_">
 <img alt="electron" src="https://img.shields.io/badge/Electron-2B2E3B?logo=electron&logoColor=9EE9F8&style=for-the-badge" />
         </a>
