@@ -1,13 +1,13 @@
 ![banner](./banner_1440.png)
 
 ## Welcome on my profile 👋
-🙋‍♂️ I'm Augustin, a French 19 years old student, cyclist, F1 & Football fan.
+🙋‍♂️ I'm Augustin, a French 20 years old student, cyclist, F1 & Football fan.
 
 👨‍💻 Mainly a web development enthusiast, but I'm working on adding variety to my coding palette.
 
 👨‍🎓 Learning C, C#, Python and Caml at school.
 
-🔗 [Check out my portfolio (WIP)](https://begue.cc)
+🔗 **[Check out my portfolio (WIP)](https://begue.cc)**
 
 You'll find here a variety of randoms personal/school projects I worked on 🌝
 <br>
