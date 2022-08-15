@@ -69,12 +69,14 @@ Gpx file parser allowing to replay and view statistics a bike ride.
 ## Stats
  
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=augustinbegue&show_icons=true&count_private=true&bg_color=0d1117&hide_border=true&text_color=c9d1d9">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustinbegue&show_icons=true&count_private=true&bg_color=0d1117&hide_border=true&text_color=c9d1d9&layout=compact">
+<img align="left" src="https://komarev.com/ghpvc/?username=augustinbegue&style=flat-square&color=0d1117">
 </p>
 
 <br>
 
 <p>
-<img align="left" src="https://komarev.com/ghpvc/?username=augustinbegue&style=flat-square&color=0d1117">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=augustinbegue&show_icons=true&count_private=true&bg_color=0d1117&hide_border=true&text_color=c9d1d9">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustinbegue&show_icons=true&count_private=true&bg_color=0d1117&hide_border=true&text_color=c9d1d9&layout=compact">
 </p>
+
+
