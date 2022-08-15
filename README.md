@@ -75,4 +75,6 @@ Gpx file parser allowing to replay and view statistics a bike ride.
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=augustinbegue&style=flat-square&color=0d1117)
+<p>
+   ![](https://komarev.com/ghpvc/?username=augustinbegue&style=flat-square&color=0d1117)
+   </p>
