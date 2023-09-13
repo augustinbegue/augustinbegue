@@ -1,7 +1,7 @@
 ![banner](./banner_1440.png)
 
 ## Welcome on my profile 👋
-🙋‍♂️ I'm Augustin, a French 20 years old CS engineering student, cyclist, F1 & Football fan.
+🙋‍♂️ I'm Augustin, a French 21 years old CS engineering student, cyclist, F1 & Football fan.
 
 👨‍💻 Web development enthusiast.
 
